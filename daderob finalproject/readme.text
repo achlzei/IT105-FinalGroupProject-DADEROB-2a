@@ -1,0 +1,24 @@
+===========================================
+Week 11 Deliverables - Group daderob
+Woodcraft Shop Database
+===========================================
+
+How to import the dataset:
+
+1. Open phpMyAdmin (http://localhost/phpMyAdmin)
+2. Create a new database named 'woodcraft shop' 
+3. Click on the database name on the left panel
+4. Click the 'Import' tab at the top
+5. Click 'Choose File' and select:
+   dataset import/woodcraft shop data.zip
+6. Click 'Go' and wait for the import to complete
+
+Verification:
+- After import, run: SELECT COUNT(*) FROM Orders;
+- Expected: At least 50,000 rows (or 100,000+ total)
+
+Sample queries to test:
+- SELECT * FROM Orders LIMIT 10;
+- SELECT * FROM Products WHERE stock > 0;
+
+For issues, contact: (daderob team)
