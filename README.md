@@ -1,45 +1,3 @@
-
-
-## ► Project Structure
-
-```
-LikhaKahoy Woodcrafts/
-│
-├── database/
-│   └── woodcraft.sql
-│
-├── src/
-│   ├── main file (main.cpp / index.php)
-│   ├── functions/
-│   └── modules/
-│
-├── assets/
-│   ├── images/
-│   └── styles/
-│
-└── README.md
-```
-
----
-
-## ► Team Members & Roles
-
-- Project Manager – Nicole S. Benigay  
-- Database Administrator (DBA) – Aira Chelzei N. Realubit  
-- SQL Developer – Arleczar G. Cornal  
-- QA/Tester – Samantha Louise V. Sola  
-- Documentation Lead – Kerwin L. Tagle  
-- Security Officer – Ashlyn Nicole Remot  
-
----
-
-## ► Notes
-
-- This system is developed for educational purposes  
-- Ensure that all inputs are validated to avoid errors in transactions  
-- The database must be properly connected before running the system  
-- Future improvements may include user authentication, payment integration, and product reviews  
-
 # 📌 LikhaKahoy Woodcrafts
 
 ---
@@ -157,7 +115,7 @@ Check if all tables are successfully imported in the schema.
 ## ► Screenshots
 
 All screenshots are stored in:
-```plaintext
+```
 /screenshots/images
 ```
 
@@ -171,7 +129,7 @@ All screenshots are stored in:
 
 ## 📂 Project Structure
 
-```plaintext
+```
 IT105-FinalGroupProject-DADEROB-2a/
 │
 ├── backup/
