@@ -79,7 +79,6 @@ The database stores information about customers, products, categories, orders, o
 - amount  
 - payment_method  
 
-
 ### Relationships:
 - One customer can have many orders  
 - One order can have multiple order details  
@@ -148,7 +147,9 @@ IT105-FinalGroupProject-DADEROB-2a/
 │
 ├── data/
 │   ├── LikhaKahoy.csv/
-│   └── dataset_import_file.zip
+│   ├── screenshot
+│   ├── dataset_import.zip
+│   └── readme.text
 │
 ├── documentation/
 │   ├── NoSQL_Reflection.pdf
