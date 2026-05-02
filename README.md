@@ -166,10 +166,10 @@ IT105-FinalGroupProject-DADEROB-2a/
 │   └── schema.sql
 │
 ├── screenshots/
-│   ├── Phase1
-│   ├── Phase2
-│   ├── complete_repo
-│   └── 
+│   ├── Phase1/
+│   ├── Phase2/
+│   ├── complete_repo.png
+│   └── structure.png
 └── README.md
 ```
 
